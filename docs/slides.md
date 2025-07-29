@@ -12,13 +12,69 @@ background: true
 
 # {{process.content.frontmatter.title}}
 
-_Why not a sub title?_
+_Erarbeitete Lösung_
 
 <footer>
 
 2025 · Zurich · Stefan Huber
 
 </footer>
+
+--s--
+
+```fm
+style: negative
+background: true
+```
+
+## Teilaufgabe
+
+# Welche digitalen _Tools_ und _Strukturen_ hältst Du für sinnvoll – und wie würdest Du diese _implementieren_ und im Team einführen?
+
+--s--
+
+## Erste Schritte
+
+- **Grösste Painpoints** im Team erfragen?
+- Passwörter/Secrets speichern & einführen
+
+--s--
+
+## Workshop-Matrix
+
+![alt text](./img/eisenhower.png)
+
+--s--
+
+## Outcome
+
+- Domain & Mail aufsetzen (wenn möglich)
+- Shared Calendar & meetings
+- Wohin mit Dokumenten
+- Geräte & Backup klären
+- Interner Chat
+- Internes Wiki aufsetzen
+- Website/Social Media/…
+
+--s--
+
+## Implementierung
+
+- Mit *Partnern* arbeiten wo möglich <br>(Infomaniak, Nextcloud, etc.)
+- Wo möglich mit *Open Source*
+- Mit *bestehenden Tools* arbeiten
+- *Dokumentation* & Schulung
+
+--s--
+
+```fm
+style: negative
+background: true
+```
+
+## Teilaufgabe
+
+# Wie würdest Du interne und externe _Kollaboration_ (z. B. mit Organisationen, Initiativen, Kreisen) technisch sowie organisatorisch ermöglichen?
 
 --s--
 
