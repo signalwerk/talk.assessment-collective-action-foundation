@@ -239,7 +239,7 @@ background: true
 
 ## exit 0; thx
 
-# _Questions?_
+# _Fragen?_
 
 <style>
   .contact-links {
